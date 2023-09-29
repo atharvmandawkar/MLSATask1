@@ -27196,7 +27196,7 @@ const imageAltText = "purple and blue abstract background";
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. A Microsoft Learn Student Ambassador is a force for good in the world. They use their skills and knowledge to make a difference in their communities and to help others succeed.";
+ */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. rA Microsoft Learn Student Ambassador is a force for good in the world. They use their skills and knowledge to make a difference in their communities and to help others succeed.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
